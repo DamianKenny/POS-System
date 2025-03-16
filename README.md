@@ -13,4 +13,4 @@ total and Balance to be paid.
 
 Login Form i made for the system:
 
-![LOGIN](Screenshot 2024-10-31 123716.png)
+![LOGIN](C:\Users\Damian kenny\Documents\GitHub\POS-System\Screenshot 2024-10-31 123716.png)
