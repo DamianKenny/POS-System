@@ -10,3 +10,7 @@ The POS system includes all the products which are added into the system, you ca
 number of items, and at the end the total amount for all the items. You can add the amount of money paid by the customer and calculate
 the balance needed to give the customer, and a bill will be printed based on all the information such as All the products, paid amount,
 total and Balance to be paid.
+
+Login Form i made for the system:
+
+![LOGIN](Screenshot 2024-10-31 123716.png)
