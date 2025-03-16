@@ -2,6 +2,8 @@
 
 A POS System for a Grocery Store i made for my Enterprise Application Development Coursework project,
 
+The System was made Using Apache NetBeans. Language used is Java.
+
 The system includes of two sub-systems - A POS system and a product management system which will be available on a dashboard.
 In the product management system you will be able to Add, Update and Delete the products which are in the system and database,
 while also you can view reports made with Crystal Reports based on the products on a separate User-Interface.
@@ -14,3 +16,15 @@ total and Balance to be paid.
 Login Form i made for the system:
 
 ![LOGIN](Screenshots/Login.png)
+
+Dashboard:
+
+![DASHBOARD](Screenshots/Dashboard.png)
+
+POS System:
+
+![POS](Screenshots/POS%20System.png)
+
+Products Manager:
+
+![PRODUCTS](Screenshots/Products%20Manager.png)
